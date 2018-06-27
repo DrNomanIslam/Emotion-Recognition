@@ -12,4 +12,9 @@ Python, opencv and keras needs to be installed
 
 ## Authors
 
-Dr. Noman Islam (http://bit.do/noman-islam
+Dr. Noman Islam (http://bit.do/noman-islam)
+
+## Demo Image
+
+![picture](example.png)
+
